@@ -1,0 +1,1 @@
+import React from "react"; import ReactDOM from "react-dom/client"; const App = () => (<div><h1>AI Health & Fitness Blog</h1><p>Affiliate IDs: healthfitbl07-21, healthfitxyz-99</p><p>Cron jobs active</p></div>); const root = ReactDOM.createRoot(document.getElementById("root")); root.render(<App />);
